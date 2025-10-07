@@ -80,3 +80,5 @@ import heroes from "./heroes";
 
 console.log(heroes.random());
 ```
+#JSON file for use in javascript, for practice etc
+https://jaycscholar.github.io/images/imageStack.json
