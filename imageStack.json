@@ -1,4 +1,5 @@
-["black-white-city.jpg"},
+[
+{"photoUrl":"black-white-city.jpg"},
 {"photoUrl":"https://jaycscholar.github.io/images/hero/photo-1421789665209-c9b2a435e3dc.jpg"},
 {"photoUrl":"https://jaycscholar.github.io/images/hero/photo-1422207134147-65fb81f59e38.jpg"},
 {"photoUrl":"https://jaycscholar.github.io/images/hero/photo-1422360902398-0a91ff2c1a1f.jpg"},
@@ -144,4 +145,5 @@
 {"photoUrl":"https://jaycscholar.github.io/images/hero/photo-1510279770292-4b34de9f5c23.jpg"},
 {"photoUrl":"https://jaycscholar.github.io/images/hero/photo-1510382739061-d3f7bb547302.jpg"},
 {"photoUrl":"https://jaycscholar.github.io/images/hero/photo-1510849090660-6c8e1908c3c9.jpg"},
-{"photoUrl":"https://jaycscholar.github.io/images/hero/photo-1510861320402-285a6c7639ea.jpg"]
+{"photoUrl":"https://jaycscholar.github.io/images/hero/photo-1510861320402-285a6c7639ea.jpg"}
+  ]
